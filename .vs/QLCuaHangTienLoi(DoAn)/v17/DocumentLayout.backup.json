@@ -74,7 +74,8 @@
               "RelativeToolTip": "BillDetailForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T14:58:19.087Z"
+              "WhenOpened": "2024-10-19T14:58:19.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,9 +83,11 @@
               "Title": "BillDetailForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLCuaHangTienLoi(DoAn) - Dang Lam\\BillDetailForm.cs",
               "RelativeDocumentMoniker": "BillDetailForm.cs",
-              "ToolTip": "D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\BillDetailForm.cs [Design]",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLCuaHangTienLoi(DoAn) - Dang Lam\\BillDetailForm.cs [Design]",
+              "RelativeToolTip": "BillDetailForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T14:58:17.739Z"
+              "WhenOpened": "2024-10-19T14:58:17.739Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -96,7 +99,8 @@
               "RelativeToolTip": "UserControls\\BillListUC.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAwwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T14:49:13.989Z"
+              "WhenOpened": "2024-10-19T14:49:13.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,9 +108,11 @@
               "Title": "BillListUC.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLCuaHangTienLoi(DoAn) - Dang Lam\\UserControls\\BillListUC.cs",
               "RelativeDocumentMoniker": "UserControls\\BillListUC.cs",
-              "ToolTip": "D:\\source\\repos\\QLCuaHangTienLoi(DoAn) - Dang Lam\\UserControls\\BillListUC.cs [Design]",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLCuaHangTienLoi(DoAn) - Dang Lam\\UserControls\\BillListUC.cs [Design]",
+              "RelativeToolTip": "UserControls\\BillListUC.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T14:48:51.652Z"
+              "WhenOpened": "2024-10-19T14:48:51.652Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

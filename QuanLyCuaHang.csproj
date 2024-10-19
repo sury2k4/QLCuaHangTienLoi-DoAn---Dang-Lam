@@ -110,6 +110,7 @@
     <Compile Include="Model\sysdiagram.cs" />
     <Compile Include="Model\TAIKHOAN.cs" />
     <Compile Include="Model\TONKHO.cs" />
+    <Compile Include="TestGitNha\test.cs" />
     <Compile Include="UCProductCategory.cs">
       <SubType>UserControl</SubType>
     </Compile>

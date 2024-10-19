@@ -109,3 +109,26 @@ C:\Users\ADMIN\Downloads\QLCuaHangTienLoi(DoAn) - Dang Lam\obj\Debug\QuanLyCuaHa
 C:\Users\ADMIN\Downloads\QLCuaHangTienLoi(DoAn) - Dang Lam\obj\Debug\QuanLyCu.9E0F4810.Up2Date
 C:\Users\ADMIN\Downloads\QLCuaHangTienLoi(DoAn) - Dang Lam\obj\Debug\QuanLyCuaHang.exe
 C:\Users\ADMIN\Downloads\QLCuaHangTienLoi(DoAn) - Dang Lam\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\QuanLyCuaHang.exe
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.AddProductUC.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.BillDetailForm.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.HomePageForm.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.LoginForm.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.ProductGatetoryForm.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.UCProductCategory.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.UserControls.BillListUC.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.UserControls.OutputBillUC.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.UserControls.ShiftUC.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.exe
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\QuanLyCuaHang.pdb
