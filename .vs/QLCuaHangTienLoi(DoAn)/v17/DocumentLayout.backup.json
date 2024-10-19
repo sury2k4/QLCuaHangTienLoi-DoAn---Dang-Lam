@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|c:\\users\\admin\\downloads\\qlcuahangtienloi(doan) - dang lam\\usercontrols\\billlistuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|C:\\Users\\ADMIN\\Downloads\\QLCuaHangTienLoi(DoAn) - Dang Lam\\usercontrols\\billlistuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:usercontrols\\billlistuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +43,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
@@ -88,8 +96,7 @@
               "RelativeToolTip": "UserControls\\BillListUC.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAwwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T14:49:13.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T14:49:13.989Z"
             },
             {
               "$type": "Document",
